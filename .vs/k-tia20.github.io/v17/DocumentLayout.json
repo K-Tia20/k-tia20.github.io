@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\20ori\\Desktop\\k-tia20.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20ori\\Desktop\\k-tia20.github.io\\_posts\\2026-06-03-0000.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2026-06-03-0000.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\20ori\\Desktop\\k-tia20.github.io\\_posts\\2026-06-02-0447.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2026-06-02-0447.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -39,19 +43,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "2026-06-03-0000.md",
+              "DocumentMoniker": "C:\\Users\\20ori\\Desktop\\k-tia20.github.io\\_posts\\2026-06-03-0000.md",
+              "RelativeDocumentMoniker": "_posts\\2026-06-03-0000.md",
+              "ToolTip": "C:\\Users\\20ori\\Desktop\\k-tia20.github.io\\_posts\\2026-06-03-0000.md",
+              "RelativeToolTip": "_posts\\2026-06-03-0000.md",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-02T14:25:57.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "2026-06-02-0447.md",
               "DocumentMoniker": "C:\\Users\\20ori\\Desktop\\k-tia20.github.io\\_posts\\2026-06-02-0447.md",
               "RelativeDocumentMoniker": "_posts\\2026-06-02-0447.md",
               "ToolTip": "C:\\Users\\20ori\\Desktop\\k-tia20.github.io\\_posts\\2026-06-02-0447.md",
               "RelativeToolTip": "_posts\\2026-06-02-0447.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-06-02T07:47:56.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": ".placeholder",
               "DocumentMoniker": "C:\\Users\\20ori\\Desktop\\k-tia20.github.io\\_posts\\.placeholder",
               "RelativeDocumentMoniker": "_posts\\.placeholder",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\20ori\\Desktop\\k-tia20.github.io\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": ".gitattributes",
               "DocumentMoniker": "C:\\Users\\20ori\\Desktop\\k-tia20.github.io\\.gitattributes",
               "RelativeDocumentMoniker": ".gitattributes",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": ".editorconfig",
               "DocumentMoniker": "C:\\Users\\20ori\\Desktop\\k-tia20.github.io\\.editorconfig",
               "RelativeDocumentMoniker": ".editorconfig",
